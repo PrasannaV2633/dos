@@ -1390,6 +1390,10 @@ clip-path: ellipse(80% 78% at 35% 11%);
   float: left;
 }
 
+.navbar{
+  margin-bottom: 0px !important;
+}
+
 @media only screen and (max-width: 959px) {
   .top-on-navbar img {
     float: none !important;

@@ -1231,6 +1231,10 @@ header.scrolled img {
   float: left;
 }
 
+.navbar {
+  margin-bottom: 0px !important;
+}
+
 @media only screen and (max-width: 959px) {
   .top-on-navbar img {
     float: none !important;
