@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" id="website">
+  <g transform="translate(-474 -211.362)">
+    <rect width="36" height="36" x="474" y="211.362" fill="#f05542" fill-opacity=".973" color="#000" opacity=".97" overflow="visible" rx="3" ry="3" style="isolation:auto;mix-blend-mode:normal"></rect>
+    <g transform="translate(475.987 -807)">
+      <path d="M.498 1030.362a.496.496 0 0 0-.498.496v16.006a.494.494 0 0 0 .498.496H10v3H7.2a.2.2 0 0 0-.2.201v.8H18v-.8a.2.2 0 0 0-.2-.2H15v-3h9.502a.497.497 0 0 0 .498-.499v-16.006a.496.496 0 0 0-.498-.496H.498z" opacity=".15"></path>
+      <rect width="25" height="17" x="1" y="1030.362" fill="#2b4255" rx=".498" ry=".496"></rect>
+      <path fill="#cad1d8" fill-rule="evenodd" d="M11 1047.139h5v3.223h-5z"></path>
+      <path fill="#e9eded" d="M8.2 1050.362a.2.2 0 0 0-.2.2v.8H19v-.8a.2.2 0 0 0-.2-.2H8.2z"></path>
+      <path fill="#00cdff" d="M2 1031.362h23v12H2z"></path>
+      <path d="M17 1022.362v15.452h3.25v4.048l3.25-4.048H30v-12.452l-3-3z" color="#000" opacity=".15" overflow="visible" style="isolation:auto;mix-blend-mode:normal"></path>
+      <path fill="#e9eded" d="M1 1044.34v2.524c0 .276.222.498.498.498h24.004a.497.497 0 0 0 .498-.498v-2.48l-24.7-.044z"></path>
+      <path fill="#e9eded" d="M18 1021.362v15.452h3.25v4.048l3.25-4.048H31v-12.452l-3-3z" color="#000" overflow="visible" style="isolation:auto;mix-blend-mode:normal"></path>
+      <path fill="none" stroke="#576d7e" d="M20 1023.862h6m-6 3h9m-9 3h9m-9 3h6"></path>
+      <path fill-rule="evenodd" d="M27 1021.362v3h3" opacity=".15"></path>
+      <path fill="#34485c" fill-rule="evenodd" d="M28 1021.362v3h3"></path>
+    </g>
+  </g>
+</svg>
