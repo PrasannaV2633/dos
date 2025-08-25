@@ -704,7 +704,7 @@ header.scrolled img {
 
 @media (max-width: 425px) {
   .section-3-img-box img {
-    height: 70px;
+    height: 50px;
   }
 }
 .brochure-icon-box {
@@ -1451,7 +1451,7 @@ button {
 .mobile-menu__panel {
   position: relative;
   height: 100%;
-  background-color: #fff1f1;
+  background-color: #ffffff;
   overflow-y: auto;
   overflow-x: hidden;
   overscroll-behavior: none;
