@@ -169,7 +169,7 @@ header.scrolled img {
 
 @media (max-width: 450px) {
   .hero-sec-new {
-    height: 85vh !important;
+    height: unset !important;
   }
   #lottie-web, #lottie-app {
     width: 65%;
@@ -702,6 +702,11 @@ header.scrolled img {
   border: 1px solid rgba(20, 20, 20, 0.5803921569);
 }
 
+@media (max-width: 425px) {
+  .section-3-img-box img {
+    height: 70px;
+  }
+}
 .brochure-icon-box {
   display: flex;
   justify-content: center;
