@@ -1,0 +1,57 @@
+
+
+
+
+
+@font-face {
+  font-family: "Pacifico";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Pacifico Regular"), local("Pacifico-Regular"),
+    url(https://fonts.gstatic.com/s/pacifico/v12/FwZY7-Qmy14u9lezJ-6H6MmBp0u-.woff2)
+      format("woff2");
+  font-display: swap;
+}
+
+
+/* testing height width */
+
+img .img-responsive {
+  height: 100% !important;
+  width: 400px !important;
+}
+
+a:hover,
+a:focus {
+  text-decoration: none;
+}
+body {
+  overflow-x: hidden;
+  padding-top: 123px;
+}
+.banner {
+  width: 100%;
+  height: auto;
+}
+.banner img {
+  width: 100%;
+  height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

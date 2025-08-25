@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-369170f1-544c-427d-be56-93ec0ad61ca0" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1634.33 640">
+  <defs>
+    <linearGradient id="uuid-6abbe9f0-57ba-4638-b5c8-063802719a2a" x1="1588.74" y1="617.74" x2="1588.74" y2="187.33" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#fff"/>
+      <stop offset=".12" stop-color="#d3d3d3"/>
+      <stop offset=".16" stop-color="#a7a7a7"/>
+      <stop offset=".19" stop-color="#7f7f7f"/>
+      <stop offset=".23" stop-color="#5c5c5c"/>
+      <stop offset=".27" stop-color="#3f3f3f"/>
+      <stop offset=".32" stop-color="#282828"/>
+      <stop offset=".37" stop-color="#161616"/>
+      <stop offset=".43" stop-color="#090909"/>
+      <stop offset=".51" stop-color="#020202"/>
+      <stop offset=".7" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="uuid-aa85beaa-5c87-4347-b691-ae67fb82b0c6" x1="1426.3" x2="1426.3" xlink:href="#uuid-6abbe9f0-57ba-4638-b5c8-063802719a2a"/>
+    <linearGradient id="uuid-81a2483f-24ca-424d-b2c2-813efa4165ea" x1="1263.87" x2="1263.87" xlink:href="#uuid-6abbe9f0-57ba-4638-b5c8-063802719a2a"/>
+    <linearGradient id="uuid-bcd0b2b1-cb28-46d2-a4f6-7e012395bddd" x1="1101.43" x2="1101.43" xlink:href="#uuid-6abbe9f0-57ba-4638-b5c8-063802719a2a"/>
+    <linearGradient id="uuid-cfd957b0-d999-4edc-aee3-7e9b5da720ef" x1="938.99" x2="938.99" xlink:href="#uuid-6abbe9f0-57ba-4638-b5c8-063802719a2a"/>
+    <linearGradient id="uuid-3f5909da-27c7-47c0-b890-95b68b642bbf" x1="776.56" x2="776.56" xlink:href="#uuid-6abbe9f0-57ba-4638-b5c8-063802719a2a"/>
+    <linearGradient id="uuid-915d6f55-073f-418d-94d1-8c3a1f31cf08" x1="126.81" x2="126.81" xlink:href="#uuid-6abbe9f0-57ba-4638-b5c8-063802719a2a"/>
+    <linearGradient id="uuid-218997c9-89b3-4ba5-8714-4b52ed80bc40" x1="614.12" x2="614.12" xlink:href="#uuid-6abbe9f0-57ba-4638-b5c8-063802719a2a"/>
+    <linearGradient id="uuid-ad9f22e3-0823-4416-b651-963d2e93a193" x1="451.68" x2="451.68" xlink:href="#uuid-6abbe9f0-57ba-4638-b5c8-063802719a2a"/>
+    <linearGradient id="uuid-e38dd04e-795e-48d9-afa9-e9a1ff07a12f" x1="289.25" x2="289.25" xlink:href="#uuid-6abbe9f0-57ba-4638-b5c8-063802719a2a"/>
+    <linearGradient id="uuid-6bb9c5c7-9ca9-4ea8-a10e-5f105edbf427" x1="45.59" x2="45.59" y2="187.33" xlink:href="#uuid-6abbe9f0-57ba-4638-b5c8-063802719a2a"/>
+    <linearGradient id="uuid-6215c2ea-d12f-4fcc-9956-bf69acf8db96" x1="1507.52" x2="1507.52" xlink:href="#uuid-6abbe9f0-57ba-4638-b5c8-063802719a2a"/>
+    <linearGradient id="uuid-71ad62ef-323d-4644-a2e1-b91d40d9fe80" x1="1345.08" x2="1345.08" xlink:href="#uuid-6abbe9f0-57ba-4638-b5c8-063802719a2a"/>
+    <linearGradient id="uuid-13e0273f-bfb6-4ee8-9c17-f527af09652b" x1="1182.65" x2="1182.65" xlink:href="#uuid-6abbe9f0-57ba-4638-b5c8-063802719a2a"/>
+    <linearGradient id="uuid-02d37791-5e7c-4172-b492-12ab7f72b132" x1="1020.21" x2="1020.21" xlink:href="#uuid-6abbe9f0-57ba-4638-b5c8-063802719a2a"/>
+    <linearGradient id="uuid-884ae1bd-7b4b-426a-b0ac-a8f254d52d6e" x1="857.77" x2="857.77" xlink:href="#uuid-6abbe9f0-57ba-4638-b5c8-063802719a2a"/>
+    <linearGradient id="uuid-29738a13-50d8-4c0f-bef9-34883c7030b6" x1="695.34" x2="695.34" xlink:href="#uuid-6abbe9f0-57ba-4638-b5c8-063802719a2a"/>
+    <linearGradient id="uuid-343598c8-67ad-4bf7-ba29-746f533e2a06" x1="532.9" x2="532.9" xlink:href="#uuid-6abbe9f0-57ba-4638-b5c8-063802719a2a"/>
+    <linearGradient id="uuid-c5a9d4aa-9ddb-4c33-80b5-51ab6a99908a" x1="370.47" x2="370.47" xlink:href="#uuid-6abbe9f0-57ba-4638-b5c8-063802719a2a"/>
+    <linearGradient id="uuid-5bd76942-274e-41b6-a249-393aa21a4973" x1="208.03" x2="208.03" xlink:href="#uuid-6abbe9f0-57ba-4638-b5c8-063802719a2a"/>
+  </defs>
+  <g>
+    <rect x="1587.74" width="2" height="640" fill="url(#uuid-6abbe9f0-57ba-4638-b5c8-063802719a2a)"/>
+    <rect x="1425.3" width="2" height="640" fill="url(#uuid-aa85beaa-5c87-4347-b691-ae67fb82b0c6)"/>
+    <rect x="1262.87" width="2" height="640" fill="url(#uuid-81a2483f-24ca-424d-b2c2-813efa4165ea)"/>
+    <rect x="1100.43" width="2" height="640" fill="url(#uuid-bcd0b2b1-cb28-46d2-a4f6-7e012395bddd)"/>
+    <rect x="937.99" width="2" height="640" fill="url(#uuid-cfd957b0-d999-4edc-aee3-7e9b5da720ef)"/>
+    <rect x="775.56" width="2" height="640" fill="url(#uuid-3f5909da-27c7-47c0-b890-95b68b642bbf)"/>
+    <rect x="125.81" width="2" height="640" fill="url(#uuid-915d6f55-073f-418d-94d1-8c3a1f31cf08)"/>
+    <rect x="613.12" width="2" height="640" fill="url(#uuid-218997c9-89b3-4ba5-8714-4b52ed80bc40)"/>
+    <rect x="450.68" width="2" height="640" fill="url(#uuid-ad9f22e3-0823-4416-b651-963d2e93a193)"/>
+    <rect x="288.25" width="2" height="640" fill="url(#uuid-e38dd04e-795e-48d9-afa9-e9a1ff07a12f)"/>
+    <rect x="44.59" width="2" height="640" fill="url(#uuid-6bb9c5c7-9ca9-4ea8-a10e-5f105edbf427)"/>
+    <rect x="1506.52" width="2" height="640" fill="url(#uuid-6215c2ea-d12f-4fcc-9956-bf69acf8db96)"/>
+    <rect x="1344.08" width="2" height="640" fill="url(#uuid-71ad62ef-323d-4644-a2e1-b91d40d9fe80)"/>
+    <rect x="1181.65" width="2" height="640" fill="url(#uuid-13e0273f-bfb6-4ee8-9c17-f527af09652b)"/>
+    <rect x="1019.21" width="2" height="640" fill="url(#uuid-02d37791-5e7c-4172-b492-12ab7f72b132)"/>
+    <rect x="856.77" width="2" height="640" fill="url(#uuid-884ae1bd-7b4b-426a-b0ac-a8f254d52d6e)"/>
+    <rect x="694.34" width="2" height="640" fill="url(#uuid-29738a13-50d8-4c0f-bef9-34883c7030b6)"/>
+    <rect x="531.9" width="2" height="640" fill="url(#uuid-343598c8-67ad-4bf7-ba29-746f533e2a06)"/>
+    <rect x="369.47" width="2" height="640" fill="url(#uuid-c5a9d4aa-9ddb-4c33-80b5-51ab6a99908a)"/>
+    <rect x="207.03" width="2" height="640" fill="url(#uuid-5bd76942-274e-41b6-a249-393aa21a4973)"/>
+  </g>
+  <g>
+    <rect x="0" y="80.59" width="1634.33" height=".75"/>
+    <rect x="0" y="135.37" width="1634.33" height=".75"/>
+    <rect x="0" y="190.16" width="1634.33" height=".75"/>
+    <rect x="0" y="244.95" width="1634.33" height=".75"/>
+    <rect x="0" y="299.73" width="1634.33" height=".75"/>
+    <rect x="0" y="354.52" width="1634.33" height=".75"/>
+    <rect x="0" y="409.3" width="1634.33" height=".75"/>
+    <rect x="0" y="464.09" width="1634.33" height=".75"/>
+    <rect x="0" y="518.88" width="1634.33" height=".75"/>
+  </g>
+</svg>

@@ -1,0 +1,228 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Social Media Graphic Design",
+  "name": "Strategic Social Media Design in Coimbatore",
+  "alternateName": "Designosoft Facebook & Instagram Ad Creative Design",
+  "description": "Designosoft is a leading social media design company in Coimbatore, specializing in crafting high-impact graphics and ad creatives for platforms like Instagram, Facebook, and LinkedIn to drive engagement and business results.",
+  "provider": {
+    "@type": "ProfessionalService", 
+    "name": "Designosoft",
+    "url": "https://www.designosoft.com/", 
+    "logo": "https://www.designosoft.com/images/latest-images/desig-o-soft-white-logo.svg",
+    "telephone": "+91-98430-59955",
+    "email": "contact-us.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "155, Ayyasamy Complex, Sathiya murthy cross road, Ram nagar",
+      "addressLocality": "Coimbatore",
+      "addressRegion": "Tamilnadu",
+      "postalCode": "641009",
+      "addressCountry": "INDIA"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "11.014813979058978",
+      "longitude": "76.96058303117752"
+    }
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Coimbatore"
+  },
+  "url": "https://www.designosoft.com/your-social-media-design-page.html", // ** ACTUAL URL OF THIS PAGE **
+  "image": "https://www.designosoft.com/images/designosoft-social-media-design-social-image.jpg", // ** REPRESENTATIVE IMAGE FOR THIS SERVICE **
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Core Social Media Design Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Instagram Post, Story & Reel Design"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Facebook Post & Ad Creative Design"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "LinkedIn Graphics for B2B Authority"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Monthly Social Media Design Retainer Packages"
+        }
+      }
+    ]
+  },
+  "mainEntity": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What makes Designosoft different from other social media design companies in Coimbatore?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Designosoft combines over twenty years of graphic design expertise with strategic marketing knowledge. Unlike agencies that focus solely on aesthetics, we create data-driven designs that are engineered to convert viewers into customers. Our team includes experienced design specialists and marketing strategists who understand platform algorithms and user psychology."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which social media platforms do you create designs for?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "We specialize in creating optimized visuals for all major platforms including Instagram, Facebook, LinkedIn, Twitter, YouTube, Pinterest, and emerging platforms. Each design is tailored to specific platform requirements, audience behaviors, and algorithm preferences to maximize engagement and reach."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How long does it take to complete a social media design project?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Project timelines vary based on scope and complexity. Single post designs typically take 2-3 business days, while comprehensive brand identity packages or monthly content calendars may require 1-2 weeks. We always provide clear timelines during our initial consultation and keep clients updated throughout the process."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you provide social media strategy along with design services?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, our designs are always backed by strategic thinking. We analyze your target audience, competitors, and business goals to create visuals that align with your overall marketing objectives. While we focus on design execution, we provide strategic recommendations to maximize your social media impact."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you help redesign our existing social media profiles and covers?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Absolutely! We offer complete social media makeover services, including profile optimization, cover design, highlight covers, and bio enhancement. We ensure all visual elements work together to create a cohesive, professional brand presence across all platforms."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What file formats do you deliver for social media designs?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "We deliver designs in multiple formats optimized for different uses: high-resolution PNG and JPG files for posting, vector formats (AI/EPS) for future editing, and platform-specific sizes. You'll receive a complete package that covers all your immediate and future needs."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you create animated content and video graphics for social media?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, we create engaging animated posts, GIFs, short video graphics, and motion graphics optimized for platforms like Instagram Stories, Reels, and Facebook video posts. Animation significantly increases engagement rates and helps content stand out in crowded feeds."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do you ensure designs align with our brand guidelines?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "We begin every project by thoroughly reviewing your existing brand guidelines, or help create them if they don't exist. Our designers maintain strict adherence to your brand colors, fonts, tone, and visual style while adapting them effectively for social media formats."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you create designs for both B2B and B2C social media marketing?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Definitely! Our team has extensive experience creating designs for various industries and audience types. We understand the different visual approaches needed for B2B platforms like LinkedIn versus B2C platforms like Instagram, and tailor our designs accordingly."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What information do you need from us to start a social media design project?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "We need your brand guidelines (or existing logos/colors), target audience information, campaign objectives, preferred platforms, any specific messaging requirements, and examples of designs you like or dislike. The more details you provide, the better we can tailor our designs to your needs."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you offer ongoing monthly social media design packages?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, we provide monthly retainer packages for businesses needing consistent, regular content creation. These packages include a set number of posts, stories, and ad creatives delivered according to your content calendar, ensuring your social media presence remains active and engaging."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do you stay updated with changing social media design trends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Our team continuously monitors platform updates, algorithm changes, and emerging design trends. We regularly attend industry webinars, follow platform announcements, and analyze performance data to ensure our designs remain current and effective."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you create social media ad creatives that convert?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, creating high-converting ad creatives is one of our specialties. We understand the psychology behind effective social media advertising and create visuals that capture attention, communicate value quickly, and include clear calls-to-action that drive desired user actions."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you provide unlimited revisions on social media designs?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "We include up to 3 rounds of revisions in our standard packages to ensure you're completely satisfied with the final designs. Additional revisions can be accommodated if needed. We believe in collaborative design and want to ensure every deliverable meets your expectations."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What industries do you have experience designing for in Coimbatore?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "We've worked with diverse industries including manufacturing, textiles, healthcare, education, restaurants, retail, technology, real estate, and professional services. Our broad experience helps us understand different audience preferences and industry-specific design requirements."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do you ensure our social media designs stand out from competitors?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "We conduct thorough competitor analysis before starting any project, identifying gaps and opportunities in your market. Our designs focus on unique value propositions, distinctive visual styles, and creative approaches that differentiate your brand from others in your industry."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you create cohesive design themes for social media campaigns?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Absolutely! We excel at creating unified visual campaigns that maintain consistency across multiple posts while keeping each piece engaging. Whether it's a product launch, seasonal campaign, or awareness drive, we ensure all designs work together as a cohesive story."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you optimize designs for mobile viewing since most users browse on phones?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, mobile optimization is fundamental to our design process. We ensure all text is readable on small screens, images are clear and impactful on mobile devices, and designs work effectively in both portrait and landscape orientations across different devices."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do you measure the success of social media designs you create?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "While we focus on design creation rather than social media management, we provide guidance on key metrics to track, such as engagement rates, click-through rates, and conversion metrics. We also offer consultation on A/B testing different design approaches to optimize performance over time."
+        }
+      }
+    ]
+  }
+}
+</script>
